@@ -1,0 +1,22 @@
+.btn-more-videos {
+  background: #444;
+  border: 2px solid #666;
+  color: #ccc;
+  font-size: 1rem;
+  padding: 0.7rem 2rem;
+  border-radius: 30px;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  user-select: none;
+  margin-top: 1rem;
+  width: 180px; /* or adjust as needed */
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.btn-more-videos:hover {
+  background: #555;
+  color: #eee;
+  box-shadow: 0 0 10px #888;
+  transform: scale(1.05);
+}
